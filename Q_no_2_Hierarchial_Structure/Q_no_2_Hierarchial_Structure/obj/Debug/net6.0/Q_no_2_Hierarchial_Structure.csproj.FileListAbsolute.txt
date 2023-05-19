@@ -1,0 +1,15 @@
+D:\REIZ TECH Assignment for .net intern\Q_no_2_Hierarchial_Structure\Q_no_2_Hierarchial_Structure\bin\Debug\net6.0\Q_no_2_Hierarchial_Structure.exe
+D:\REIZ TECH Assignment for .net intern\Q_no_2_Hierarchial_Structure\Q_no_2_Hierarchial_Structure\bin\Debug\net6.0\Q_no_2_Hierarchial_Structure.deps.json
+D:\REIZ TECH Assignment for .net intern\Q_no_2_Hierarchial_Structure\Q_no_2_Hierarchial_Structure\bin\Debug\net6.0\Q_no_2_Hierarchial_Structure.runtimeconfig.json
+D:\REIZ TECH Assignment for .net intern\Q_no_2_Hierarchial_Structure\Q_no_2_Hierarchial_Structure\bin\Debug\net6.0\Q_no_2_Hierarchial_Structure.dll
+D:\REIZ TECH Assignment for .net intern\Q_no_2_Hierarchial_Structure\Q_no_2_Hierarchial_Structure\bin\Debug\net6.0\Q_no_2_Hierarchial_Structure.pdb
+D:\REIZ TECH Assignment for .net intern\Q_no_2_Hierarchial_Structure\Q_no_2_Hierarchial_Structure\obj\Debug\net6.0\Q_no_2_Hierarchial_Structure.csproj.AssemblyReference.cache
+D:\REIZ TECH Assignment for .net intern\Q_no_2_Hierarchial_Structure\Q_no_2_Hierarchial_Structure\obj\Debug\net6.0\Q_no_2_Hierarchial_Structure.GeneratedMSBuildEditorConfig.editorconfig
+D:\REIZ TECH Assignment for .net intern\Q_no_2_Hierarchial_Structure\Q_no_2_Hierarchial_Structure\obj\Debug\net6.0\Q_no_2_Hierarchial_Structure.AssemblyInfoInputs.cache
+D:\REIZ TECH Assignment for .net intern\Q_no_2_Hierarchial_Structure\Q_no_2_Hierarchial_Structure\obj\Debug\net6.0\Q_no_2_Hierarchial_Structure.AssemblyInfo.cs
+D:\REIZ TECH Assignment for .net intern\Q_no_2_Hierarchial_Structure\Q_no_2_Hierarchial_Structure\obj\Debug\net6.0\Q_no_2_Hierarchial_Structure.csproj.CoreCompileInputs.cache
+D:\REIZ TECH Assignment for .net intern\Q_no_2_Hierarchial_Structure\Q_no_2_Hierarchial_Structure\obj\Debug\net6.0\Q_no_2_Hierarchial_Structure.dll
+D:\REIZ TECH Assignment for .net intern\Q_no_2_Hierarchial_Structure\Q_no_2_Hierarchial_Structure\obj\Debug\net6.0\refint\Q_no_2_Hierarchial_Structure.dll
+D:\REIZ TECH Assignment for .net intern\Q_no_2_Hierarchial_Structure\Q_no_2_Hierarchial_Structure\obj\Debug\net6.0\Q_no_2_Hierarchial_Structure.pdb
+D:\REIZ TECH Assignment for .net intern\Q_no_2_Hierarchial_Structure\Q_no_2_Hierarchial_Structure\obj\Debug\net6.0\Q_no_2_Hierarchial_Structure.genruntimeconfig.cache
+D:\REIZ TECH Assignment for .net intern\Q_no_2_Hierarchial_Structure\Q_no_2_Hierarchial_Structure\obj\Debug\net6.0\ref\Q_no_2_Hierarchial_Structure.dll

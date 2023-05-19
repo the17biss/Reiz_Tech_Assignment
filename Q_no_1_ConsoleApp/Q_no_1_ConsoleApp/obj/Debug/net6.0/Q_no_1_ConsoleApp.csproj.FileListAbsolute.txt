@@ -1,0 +1,15 @@
+D:\REIZ TECH Assignment for .net intern\Q_no_1_ConsoleApp\Q_no_1_ConsoleApp\bin\Debug\net6.0\Q_no_1_ConsoleApp.exe
+D:\REIZ TECH Assignment for .net intern\Q_no_1_ConsoleApp\Q_no_1_ConsoleApp\bin\Debug\net6.0\Q_no_1_ConsoleApp.deps.json
+D:\REIZ TECH Assignment for .net intern\Q_no_1_ConsoleApp\Q_no_1_ConsoleApp\bin\Debug\net6.0\Q_no_1_ConsoleApp.runtimeconfig.json
+D:\REIZ TECH Assignment for .net intern\Q_no_1_ConsoleApp\Q_no_1_ConsoleApp\bin\Debug\net6.0\Q_no_1_ConsoleApp.dll
+D:\REIZ TECH Assignment for .net intern\Q_no_1_ConsoleApp\Q_no_1_ConsoleApp\bin\Debug\net6.0\Q_no_1_ConsoleApp.pdb
+D:\REIZ TECH Assignment for .net intern\Q_no_1_ConsoleApp\Q_no_1_ConsoleApp\obj\Debug\net6.0\Q_no_1_ConsoleApp.csproj.AssemblyReference.cache
+D:\REIZ TECH Assignment for .net intern\Q_no_1_ConsoleApp\Q_no_1_ConsoleApp\obj\Debug\net6.0\Q_no_1_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\REIZ TECH Assignment for .net intern\Q_no_1_ConsoleApp\Q_no_1_ConsoleApp\obj\Debug\net6.0\Q_no_1_ConsoleApp.AssemblyInfoInputs.cache
+D:\REIZ TECH Assignment for .net intern\Q_no_1_ConsoleApp\Q_no_1_ConsoleApp\obj\Debug\net6.0\Q_no_1_ConsoleApp.AssemblyInfo.cs
+D:\REIZ TECH Assignment for .net intern\Q_no_1_ConsoleApp\Q_no_1_ConsoleApp\obj\Debug\net6.0\Q_no_1_ConsoleApp.csproj.CoreCompileInputs.cache
+D:\REIZ TECH Assignment for .net intern\Q_no_1_ConsoleApp\Q_no_1_ConsoleApp\obj\Debug\net6.0\Q_no_1_ConsoleApp.dll
+D:\REIZ TECH Assignment for .net intern\Q_no_1_ConsoleApp\Q_no_1_ConsoleApp\obj\Debug\net6.0\refint\Q_no_1_ConsoleApp.dll
+D:\REIZ TECH Assignment for .net intern\Q_no_1_ConsoleApp\Q_no_1_ConsoleApp\obj\Debug\net6.0\Q_no_1_ConsoleApp.pdb
+D:\REIZ TECH Assignment for .net intern\Q_no_1_ConsoleApp\Q_no_1_ConsoleApp\obj\Debug\net6.0\Q_no_1_ConsoleApp.genruntimeconfig.cache
+D:\REIZ TECH Assignment for .net intern\Q_no_1_ConsoleApp\Q_no_1_ConsoleApp\obj\Debug\net6.0\ref\Q_no_1_ConsoleApp.dll
